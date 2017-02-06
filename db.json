@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "provider": "auth0",
+      "displayName": "ashot.mnatsakanyan@of.am",
+      "id": "auth0|5747155c64323e25056726e0",
+      "name": {},
+      "emails": [
+        {
+          "value": "ashot.mnatsakanyan@of.am"
+        }
+      ],
+      "picture": "https://s.gravatar.com/avatar/ec426dc4e7fec53b5ad6497decf24b31?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fas.png",
+      "nickname": "ashot.mnatsakanyan",
+      "identities": [
+        {
+          "user_id": "5747155c64323e25056726e0",
+          "provider": "auth0",
+          "connection": "Username-Password-Authentication",
+          "isSocial": false
+        }
+      ],
+      "_json": {
+        "email": "ashot.mnatsakanyan@of.am",
+        "email_verified": false,
+        "clientID": "Lyy5tSFBYyHPAvLXwJ8U1jzQ9oWjPQ29",
+        "updated_at": "2017-02-06T20:57:45.399Z",
+        "picture": "https://s.gravatar.com/avatar/ec426dc4e7fec53b5ad6497decf24b31?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fas.png",
+        "user_id": "auth0|5747155c64323e25056726e0",
+        "name": "ashot.mnatsakanyan@of.am",
+        "nickname": "ashot.mnatsakanyan",
+        "identities": [
+          {
+            "user_id": "5747155c64323e25056726e0",
+            "provider": "auth0",
+            "connection": "Username-Password-Authentication",
+            "isSocial": false
+          }
+        ],
+        "created_at": "2016-05-26T15:25:16.702Z",
+        "sub": "auth0|5747155c64323e25056726e0"
+      },
+      "_raw": "{\"email\":\"ashot.mnatsakanyan@of.am\",\"email_verified\":false,\"clientID\":\"Lyy5tSFBYyHPAvLXwJ8U1jzQ9oWjPQ29\",\"updated_at\":\"2017-02-06T20:57:45.399Z\",\"picture\":\"https://s.gravatar.com/avatar/ec426dc4e7fec53b5ad6497decf24b31?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fas.png\",\"user_id\":\"auth0|5747155c64323e25056726e0\",\"name\":\"ashot.mnatsakanyan@of.am\",\"nickname\":\"ashot.mnatsakanyan\",\"identities\":[{\"user_id\":\"5747155c64323e25056726e0\",\"provider\":\"auth0\",\"connection\":\"Username-Password-Authentication\",\"isSocial\":false}],\"created_at\":\"2016-05-26T15:25:16.702Z\",\"sub\":\"auth0|5747155c64323e25056726e0\"}"
+    }
+  ],
+  "orders": [],
+  "news": []
+}
